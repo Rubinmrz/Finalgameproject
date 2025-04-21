@@ -14,7 +14,7 @@ WASD keys: Move the player character
 Y key: Start/Restart the game
 E key: Exit the game
 
-Game States
+Game menu
 Main Menu: Starting screen with game instructions
 Playing: Active gameplay state
 Game Over: Displayed when player is hit by a bullet
