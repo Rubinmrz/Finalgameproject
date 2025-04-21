@@ -1,0 +1,84 @@
+﻿  Game.cpp
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(118,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(118,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(268,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(268,40): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(268,40): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(268,40): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(268,40): warning C4244:         ]
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(268,32): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(268,32): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(268,32): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(268,32): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(268,32): warning C4244:         ]
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(269,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(269,43): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(269,43): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(269,43): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(269,43): warning C4244:         ]
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(269,35): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(269,35): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(269,35): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(269,35): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(269,35): warning C4244:         ]
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(273,45): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(273,45): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(273,45): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(273,45): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(273,45): warning C4244:         ]
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(273,32): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(273,32): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(273,32): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(273,32): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(273,32): warning C4244:         ]
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(274,48): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(274,48): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(274,48): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(274,48): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(274,48): warning C4244:         ]
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(274,35): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(274,35): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(274,35): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(274,35): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(274,35): warning C4244:         ]
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(278,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(278,40): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(278,40): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(278,40): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(278,40): warning C4244:         ]
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(278,32): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(278,32): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(278,32): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(278,32): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(278,32): warning C4244:         ]
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(279,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(279,43): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(279,43): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(279,43): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(279,43): warning C4244:         ]
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(279,32): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(279,32): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(279,32): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(279,32): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(279,32): warning C4244:         ]
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(283,45): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(283,45): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(283,45): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(283,45): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(283,45): warning C4244:         ]
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(283,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(283,37): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(283,37): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(283,37): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(283,37): warning C4244:         ]
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(284,48): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(284,48): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(284,48): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(284,48): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(284,48): warning C4244:         ]
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(284,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(284,37): warning C4244:         with
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(284,37): warning C4244:         [
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(284,37): warning C4244:             T=float
+C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\Finalgameproject\Game.cpp(284,37): warning C4244:         ]
+  Finalgameproject.vcxproj -> C:\Users\rubin\OneDrive\Desktop\Final game project\project\Finalgameproject\x64\Debug\Finalgameproject.exe
